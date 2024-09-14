@@ -1,4 +1,4 @@
-# Instructions and work flow
+# Steps to solve the assignments
 1. The task was to create a python program that take 3 numbers as input.
 2. i started this task by taking a variable named __*name*__ to take input of name of the user.
 ```python 
